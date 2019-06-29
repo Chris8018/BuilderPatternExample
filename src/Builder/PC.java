@@ -1,3 +1,5 @@
+package Builder;
+
 public class PC {
     private String name;
     private String motherboard;
